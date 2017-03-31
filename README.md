@@ -12,7 +12,8 @@ Bot framework samples for more advanced scenarios
 
 ### Channels and clients
 - Skype for business - [link](https://github.com/ankitbko/SkypeForBusinessBot), [link](https://github.com/ankitbko/ucwa-bot)
-- Bot in Xamarin Mobile App - [link](https://github.com/alyssaong1/XamarinMsftBot)
+- Bot in Xamarin Mobile App - [link](https://blog.xamarin.com/add-yap-to-your-app-with-bot-framework/)
+- Bot in Xamarin Forms - [link](https://github.com/Daniel-Krzyczkowski/XamarinForms/tree/master/BotClientApp), [link](https://github.com/alyssaong1/XamarinMsftBot)
 
 ### Analytics
 - Analytics dashboard, powered by app insights - [link](https://github.com/CatalystCode/ibex-dashboard)
