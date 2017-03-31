@@ -24,3 +24,6 @@ Bot framework samples for more advanced scenarios
 - Bot notifications - [link](https://github.com/sebsylvester/reminder-bot), if your bot runs on .NET you can use Hangfire.io
 - Integration with Dynamics - [link](https://blogs.msdn.microsoft.com/kamichel/?p=725), [link](https://github.com/andz88/CrmChatBot)
 - Speech to text - [link]()
+
+### Additional gold nuggets
+- Adding rich attachments to QnAMakerDialog (C#) - [link](http://www.garypretty.co.uk/2017/02/23/adding-rich-attachments-to-your-qnamaker-bot-responses/)
