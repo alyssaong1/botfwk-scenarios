@@ -3,8 +3,10 @@ Bot framework samples for more advanced scenarios
 
 ### Authentication
 - Bot Authentication - [link](https://github.com/MicrosoftDX/AuthBot)
-- More bot authentication with Azure AD and Microsoft accounts - [link](https://github.com/CatalystCode/node-authbot)
+- More bot authentication with Azure AD and Microsoft accounts (Node) - [link](https://github.com/CatalystCode/node-authbot)
 - Bot Auth with Facebook/dropbox/pinterest/rakuten/evernote/Azure AD v2 etc. - [link](https://github.com/mattdot/botauth)
+- Transparently authenticate end users to a bot (C#) - [link](https://github.com/stephaneey/transparent-auth-bot)
+- Use bot with Microsoft Graph (C#) - [link](https://github.com/microsoftgraph/botframework-csharp-excelbot-rest-sample)
 
 ### Translation
 - Universal translator for the bot - [link](https://github.com/CatalystCode/Universal-Language-Intelligence-Service)
