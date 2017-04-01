@@ -23,8 +23,9 @@ Bot framework samples for more advanced scenarios
 - Human handoff - [link](https://github.com/ankitbko/human-handoff-bot)
 - Proactive messaging (where the bot sends the user a message first) - [link](https://github.com/MicrosoftDX/botFramework-proactiveMessages)
 - Bot notifications - [link](https://github.com/sebsylvester/reminder-bot), if your bot runs on .NET you can use Hangfire.io
+- Sending reminders with the bot - [link](https://github.com/sebsylvester/reminder-bot)
 - Integration with Dynamics - [link](https://blogs.msdn.microsoft.com/kamichel/?p=725), [link](https://github.com/andz88/CrmChatBot)
-- Speech to text - [link]()
+- Continuous speech to text and text to speech, if you want to communicate with the bot using voice - [link](https://github.com/davrous/BingSpeech)
 
 ### Additional gold nuggets
 - Adding rich attachments to QnAMakerDialog (C#) - [link](http://www.garypretty.co.uk/2017/02/23/adding-rich-attachments-to-your-qnamaker-bot-responses/)
