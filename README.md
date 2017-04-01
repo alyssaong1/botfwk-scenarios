@@ -19,7 +19,8 @@ Bot framework samples for more advanced scenarios
 
 ### Analytics
 - Analytics dashboard, powered by app insights - [link](https://github.com/CatalystCode/ibex-dashboard)
-- Bot logging code for analytics dashboard - [link](https://github.com/CatalystCode/bot-fmk-logging)
+- Bot logging code for analytics dashboard above (NodeJS) - [link](https://github.com/CatalystCode/bot-fmk-logging)
+- Integration with dashbot.io (NodeJS) - [link](https://www.dashbot.io/sdk/msftbf)
 
 ### More scenarios
 - Human handoff - [link](https://github.com/ankitbko/human-handoff-bot)
