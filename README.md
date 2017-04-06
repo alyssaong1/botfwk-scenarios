@@ -10,7 +10,8 @@ Bot framework samples for more advanced scenarios
 
 ### Translation
 - Universal translator for the bot - [link](https://github.com/CatalystCode/Universal-Language-Intelligence-Service)
-- Bot translation middleware - [link](https://github.com/alyssaong1/BotTranslator)
+- Bot translation middleware (C# and NodeJS) - [link](https://github.com/alyssaong1/BotTranslator)
+- Bot translation (C#) - [link](https://github.com/MSFTAuDX/BotTranslator)
 
 ### Channels and clients
 - Skype for business - [link](https://github.com/ankitbko/SkypeForBusinessBot), [link](https://github.com/ankitbko/ucwa-bot)
