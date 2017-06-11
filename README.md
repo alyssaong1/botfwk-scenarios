@@ -23,6 +23,11 @@ Bot framework samples for more advanced scenarios
 - Bot logging code for analytics dashboard above (NodeJS) - [link](https://github.com/CatalystCode/bot-fmk-logging)
 - Integration with dashbot.io (NodeJS) - [link](https://www.dashbot.io/sdk/msftbf)
 
+Note that analytics is now integrated into the Bot Framework dashboard portal as well, using Azure application insights.
+
+### Payment
+- Integration with Paypal to enable payment - [link](https://github.com/bnookala/node-paymentbot)
+
 ### More scenarios
 - Human handoff - [link](https://github.com/ankitbko/human-handoff-bot)
 - Proactive messaging (where the bot sends the user a message first) - [link](https://github.com/MicrosoftDX/botFramework-proactiveMessages)
