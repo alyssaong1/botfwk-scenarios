@@ -15,7 +15,7 @@ Bot framework samples for more advanced scenarios
 - Switching languages with language detection - [link](https://github.com/morsh/multilingual-uber-bot)
 
 ### Channels and clients
-- Skype for business - [link](https://github.com/ankitbko/SkypeForBusinessBot), [link](https://github.com/ankitbko/ucwa-bot)
+- Skype for business - [link](https://github.com/ankitbko/SkypeForBusinessBot), [link](https://github.com/ankitbko/ucwa-bot). **Note that Skype for Business is now an officially supported channel on the Bot Framework.**
 - Bot in Xamarin Mobile App - [link](https://blog.xamarin.com/add-yap-to-your-app-with-bot-framework/)
 - Bot in Xamarin Forms - [link](https://github.com/Daniel-Krzyczkowski/XamarinForms/tree/master/BotClientApp), [link](https://github.com/alyssaong1/XamarinMsftBot)
 - Bot in Xamarin with direct line - [link](https://github.com/jamesleeht/xamarinmarshol)
@@ -33,14 +33,16 @@ Note that analytics is now integrated into the Bot Framework dashboard portal as
 - Integration with Stripe to enable payment (.NET) - [link](https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-request-payment), [sample](https://github.com/Microsoft/BotBuilder-Samples/tree/master/CSharp/sample-payments)
 
 ### More scenarios
+- Small talk using the Bot Framework and QnA Maker - [link](https://github.com/alyssaong1/botframework-smalltalk)
 - Parent bot routing into sub-bots, i.e. bot to bot scenario - [link](https://github.com/morsh/multilingual-uber-bot)
 - Human handoff, i.e. handing off control to a real human - [link for nodejs](https://github.com/palindromed/Bot-HandOff), [link for .NET](https://github.com/tompaana/intermediator-bot-sample), [link](https://github.com/ankitbko/human-handoff-bot)
 - Proactive messaging (where the bot sends the user a message first) - [link](https://github.com/MicrosoftDX/botFramework-proactiveMessages)
 - Bot notifications - [link](https://github.com/sebsylvester/reminder-bot), if your bot runs on .NET you can use Hangfire.io
 - Sending reminders with the bot - [link](https://github.com/sebsylvester/reminder-bot)
-- Integration with Dynamics - [link](https://blogs.msdn.microsoft.com/kamichel/?p=725), [link](https://github.com/andz88/CrmChatBot)
+- Integration with Dynamics - [link](https://blogs.msdn.microsoft.com/kamichel/?p=725), [link](https://github.com/andz88/CrmChatBot), [Bot with dynamics and sharepoint integration](https://github.com/sozercan/accounts-bot)
 - Continuous speech to text and text to speech, if you want to communicate with the bot using voice - [link](https://github.com/davrous/BingSpeech)
 - Integration with SIP for VoIP - [link](https://github.com/alyssaong1/VoIPBot)
+- Push notifications to your users from a webpage - [link](https://github.com/alyssaong1/bot-notifications-webpage) (Node)
 
 ### Additional gold nuggets
 - Adding rich attachments to QnAMakerDialog (C#) - [link](http://www.garypretty.co.uk/2017/02/23/adding-rich-attachments-to-your-qnamaker-bot-responses/)
